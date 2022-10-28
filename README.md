@@ -13,6 +13,7 @@ gcc Adivinhacao.c
 ```
 ./a.out
 ```
+- [Curso](https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-1)
 -----------------------------------------------------------------------------------------------------------
 ### _*Avançando na linguagem*_
   
@@ -25,6 +26,7 @@ gcc JogoDaForca.c
 ```
 ./a.out
 ```
+- [Curso](https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-2)
 -----------------------------------------------------------------------------------------------------------
 ### _*Recursos avançados da linguagem*_
   
@@ -36,3 +38,5 @@ gcc FogeFoge.c Mapa.c Ui.c
 ```
 ./a.out
 ```
+- [Curso](https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-3)
+
